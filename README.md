@@ -1,2 +1,2 @@
 # nanogpt
-Learning and modifying [nanogpt by Andrej Karpathy](https://github.com/karpathy/nanoGPT).
+Learning and modifying [nanogpt](https://github.com/karpathy/nanoGPT) by Andrej Karpathy.
