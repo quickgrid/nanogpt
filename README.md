@@ -1,5 +1,5 @@
 # nanogpt
-Learning and modifying [nanogpt](https://github.com/karpathy/nanoGPT) by Andrej Karpathy.
+Learning and modifying [nanogpt](https://github.com/karpathy/nanoGPT) by Andrej Karpathy. Only character tokenization is implemented for language model.
 
 ## Result
 
