@@ -5,3 +5,4 @@ Learning and modifying [nanogpt](https://github.com/karpathy/nanoGPT) by Andrej 
 - https://github.com/karpathy/nanoGPT
 - https://github.com/karpathy/char-rnn
 - https://www.youtube.com/watch?v=kCc8FmEb1nY
+- https://github.com/karpathy/minGPT
